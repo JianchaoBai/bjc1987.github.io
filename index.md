@@ -29,15 +29,15 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
-
-- Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indefinite term for sepable convex optimization, (2021) In preparation
+- **J. Bai**, Y. Ma. [A family of accelerated inexact augmented Lagrangian methods](http://www.optimization-online.org/DB_HTML/2022/04/8872.html), (2022) Optimization Online
+- Y. Ma, **J. Bai**, H. Sun. [An inexact ADMM with proximal-indifinite term and larger stepsize](http://www.optimization-online.org/DB_FILE/2022/02/8793.pdf), (2022) Submitted
 - **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) Under review
-- **J. Bai**, H. Zhang. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
-- **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
+- **J. Bai**, H. Zhang. [ An new insight on augmented Lagrangian method with applications in machine learning](http://www.optimization-online.org/DB_HTML/2021/08/8559.html), (2021) Optimization Online
+- **J. Bai**, F. Bian, X. Chang, L. Du. [Accelerated stochastic Peaceman-Rachford method for empirical risk minimization](http://www.optimization-online.org/DB_HTML/2021/08/8551.html), (2021) Under review
 - Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review 
 - **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
-- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), CSIAM Transactions on Applied Mathematics, Accepted, (2021)  
-- **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765), Computational Optimization and Applications, Accepted, (2021) 
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), CSIAM Transactions on Applied Mathematics, (2022) DOI: 10.4208/csiam-am.SO-2021-0021 
+- **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765), Computational Optimization and Applications, 81: 479-518, (2022)  
 - X. Chang,**J. Bai**(Corresponding author). [A projected extrapolated gradient method with larger step size for monotone variational inequalities](https://link.springer.com/article/10.1007/s10957-021-01902-2), Journal of Optimization Theory and Applications, 190: 602-627, (2021) (JCR-2)
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
 - **J. Bai**,  X. Chang, J. Li, F. Xu. [Convergence revisit on generalized symmetric ADMM](https://www.tandfonline.com/doi/full/10.1080/02331934.2019.1704754), Optimization, 70: 149-168, (2021)  (JCR-3)
@@ -96,6 +96,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
  
 ### Talks and conference
 1. **`Talks`**
+- March 17，2022, Report on “Accelerated stochastic ADMM and its extensions”，Tianyuan Mathematical Center in Southwest China，
 - August 15-19, 2021, Report on "Accelerated stochastic ADMM with applications in supervised learning". The 13-th Annual Conference on Computational Mathematics of Chinese Mathematical Society, Nanjing Normal University, China.
 - June 18, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Henan Normal University, China. (invited by Prof. Yonggang Pei)  
 - April 21, 2021, Report on “Deterministic and stochastic ADMM for structured convex optimization”. Beihang University, China. (invited by Prof. Jiaxin Xie)  
