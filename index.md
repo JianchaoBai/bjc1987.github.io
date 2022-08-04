@@ -6,7 +6,8 @@
 
 ### Academic Experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
- - Dec. 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
+ - Dec. 2019-July, 2022, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
+ - June-July, 2022, National Center for Applied Mathematics in Chongqing, Visiting Prof. [**Xinmin Yang**](https://www.cqnu.edu.cn/info/1112/4224.htm)
  - April-August, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
  - Oct. - Oct. 2019, Beihang University, Visiting Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visiting Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
@@ -30,8 +31,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
 
-- Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indefinite term for sepable convex optimization, (2021) In preparation
-- **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) Under review
+- Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indefinite term for sepable convex optimization, (2022) Under review
 - **J. Bai**, H. Zhang. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
 - **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
 - Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review 
