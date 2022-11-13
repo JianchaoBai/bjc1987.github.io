@@ -2,11 +2,12 @@
  - Joint Ph.D. Louisiana State University, Co-advisor: Prof. [**Hongchao Zhang**](https://www.math.lsu.edu/~hozhang/)
  - Ph.D. Xi'an Jiaotong University, Advisor: Prof. [**Jicheng Li**](http://gr.xjtu.edu.cn/en/web/jcli)
  - M.S. Guilin University of Electronic Technology, Advisor: Prof. [**Xuefeng Duan**](https://www.guet.edu.cn/people/info/1003/1758.htm)
- - B.S. Yan'an University, Supervisor: Prof. **Jinbao Guo**
+ - B.S. Yan'an University
 
 ### Academic Experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - Dec. 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
+ - June-July, 2021, National Center for Applied Mathematics in Chongqing, Visiting Prof. [**Yinmin Yang**](https://www.cqnu.edu.cn/info/1112/4224.htm)
  - April-August, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
  - Oct. - Oct. 2019, Beihang University, Visiting Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visiting Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
@@ -21,6 +22,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ### Research Grants
 - National Natural Science Foundation of China: Study on Structured Optimization Algorithms in Large-scale Data Processing, 2021-2023, Lead
+- Guangdong Basic and Applied Basic Research Foundation, Novel augmented Lagrangian splitting algorithms for structure optimization models: Theory and applications, 2023-2025, Lead
 - China Postdoctoral Science Foundation: Novel Alternating Direction Method with Applications, 2021-2022, Lead
 - Fundamental Research Funds for the Central Universities: Study on First-order Algorithms for Structured Convex Optimization, 2019-2021, Lead
 - National Statistical Science Research Project of China: Analysis Method for Low Rank Sparse Big-data with Applications, 2018-2020, Participant
@@ -30,14 +32,13 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 ### Academic Achievements
 ★ **`Optimization methods including first-order methods`**
 
-- Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indefinite term for sepable convex optimization, (2021) In preparation
-- **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2021) Under review
+- **J. Bai**, M. Zhang, H. Zhang. An inexact ADMM for sepable nonconvex and nonsmooth optimization, (2022) Under review
 - **J. Bai**, H. Zhang. [An new insight on augmented Lagrangian method and its extensions](https://arxiv.org/abs/2108.11125v2), (2021) Optimization Online
-- **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2021) Under review
-- Q. Kong, H. Sun, **J. Bai**. Optimization of the core for an unbalanced cooperative game, (2021) Under review 
-- **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2019) Under review
-- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), CSIAM Transactions on Applied Mathematics, Accepted, (2021)  
-- **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765), Computational Optimization and Applications, Accepted, (2021) 
+- **J. Bai**, F. Bian, X. Chang, L. Du. Accelerated stochastic Peaceman-Rachford method for empirical risk minimization, (2022) Under review
+- **J. Bai**,  J. Liang, K. Guo, Y. Jing, H. So. [Accelerated symmetric ADMM and its applications in signal processing](https://arxiv.org/abs/1906.12015), (2022) Under review
+- Y. Ma, **J. Bai**, H. Sun. An inexact ADMM with proximal-indifinite term and larger stepsize, Applied Numerical Mathematics, Accepted, (2022)
+- **J. Bai**, D. Han, H. Sun, H. Zhang. [Convergence on a symmetric accelerated stochastic ADMM with larger stepsizes](https://arxiv.org/abs/2103.16154), CSIAM Transactions on Applied Mathematics, 3(3): 448-479, (2022)  
+- **J. Bai**, W. Hager, H. Zhang. [An inexact accelerated stochastic ADMM for separable convex optimization](https://arxiv.org/abs/2010.12765), Computational Optimization and Applications, 81: 479-518, (2022)  (JCR-2)
 - X. Chang,**J. Bai**(Corresponding author). [A projected extrapolated gradient method with larger step size for monotone variational inequalities](https://link.springer.com/article/10.1007/s10957-021-01902-2), Journal of Optimization Theory and Applications, 190: 602-627, (2021) (JCR-2)
 - **J. Bai**,  Y. Ma, H. Sun, M. Zhang. [Iteration complexity analysis of a partial LQP-based alternating direction method of multipliers](https://arxiv.org/abs/2010.12765), Applied Numerical Mathematics, 165: 500-518, (2021)  (JCR-2)
 - **J. Bai**,  X. Chang, J. Li, F. Xu. [Convergence revisit on generalized symmetric ADMM](https://www.tandfonline.com/doi/full/10.1080/02331934.2019.1704754), Optimization, 70: 149-168, (2021)  (JCR-3)
@@ -52,7 +53,7 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 
 ★ **`Numerical algebra including low-rank approximation & complementarity problem`**
 - **J. Bai**,  C. Chen, X. Gu. Two alternating iterative methods and their preconditioned versions for solving the absolute value equations, (2021)  In preparation
-- P. Dai, **J. Bai**,  J. Li. A general preconditioner for tensor complementarity problem, (2020)  Under review
+- P. Dai, **J. Bai**,  J. Li. A general preconditioner for tensor complementarity problem, (2022)  Under review
 - P. Dai, J. Li, **J. Bai**,  L. Dong. [Notes on new error bounds for linear complementarity problems of Nekrasov matrices, B-Nekrasov matrices and QN-matrices](https://www.global-sci.org/intro/article_detail/nmtma/13220.html), Numerical Mathematics: Theory, Methods and Applications, 12: 1191-1212 (2019) (JCR-2)
 - P. Dai, J. Li, **J. Bai**,  L. Dong. [New error bounds for linear complementarity problems of S-Nekrasov matrices and B-S-Nekrasov matrices](https://link.springer.com/article/10.1007/s40314-019-0818-4), Computational and Applied Mathematics, 38: 61(2019) (JCR-3) 
 - P. Dai, J. Li, **J. Bai**,  J. Qiu. [A preconditioned two-step modulus-based matrix splitting iteration method for linear complementarity problem](https://www.sciencedirect.com/science/article/pii/S0096300318310531), Applied Mathematics and Computation,348: 542-551 (2019) (JCR-1, Top)
@@ -66,34 +67,30 @@ Currently I am interested in stochastic algorithms (e.g. _stochastic gradient me
 - X. Duan, **J. Bai**(Corresponding author), M. Zhang, X. Zhang. [On the generalized low rank approximation of the correlation matrices arising in the asset portfolio](https://www.sciencedirect.com/science/article/pii/S0024379514004765), Linear Algebra and its Applications, 461:1-17 (2014) (JCR-3)
 
 ### Professional Activities
-★ Editor (2021--): Annals of Applied Sciences 
 
 ★ Council Member (2021--): CSIAM Activity Group on Big Data and AI
 
 ★ Member of International Program Committee, The International Conference on Artificial intelligence & Advanced Networking, 28-29 July 2022 | Oxford, United Kingdom
 
-★ Guest commentator of Math Review; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
+★ Guest commentator of Mathematical Reviews; Members of ORSC(S390021704M), CSIAM(2600615M), CMS(S010007511M), MIIT Key Laboratory of Dynamics and Control of Complex Systems, etc.
 
 ★ Reviewer of the journals
- - Automatica (JCR-2)
- - Applied Numerical Mathematics (JCR-2)
- - Computational and Applied Mathematics (JCR-3)
- - Computational Optimization and Applications (JCR-2)
- - Calcolo (JCR-2)
- - FILOMAT (JCR-4)
- - IEEE Access (JCR-2)
- - Journal of Mathematics (JCR-4)
- - Journal of Global Optimization (JCR-2)
- - Journal of the Operations Research Society of China (EI)
- - Neurocomputing (JCR-2)
- - Numerical Algorithms (JCR-2)
- - Optimization Letters (JCR-3)
- - Signal Processing (JCR-2)
- - Mathematica Numerica Sinica, Chinese Series (CSCD)
- - Journal of Numerical Methods and Computer Applications, Chinese Series (CSCD)
- - Numerical Mathematics: A Journal of Chinese Universities, Chinese Series (CSCD)
- - Operations Research Transactions, Chinese Series (CSCD)
- 
+ - Automatica (T1/SCI-2, Top)
+ - Applied Mathematics and Optimization (SCI-2)
+ - Applied Numerical Mathematics (SCI-2)
+ - Asia-Pacific Journal of Operational Research (SCI-4)
+ - Calcolo (SCI-2)
+ - Computational Optimization and Applications (SCI-2)
+ - IEEE Transactions on Mobile Computing (SCI-2)
+ - Journal of Computational Mathematics (T1/SCI-3)
+ - Journal of Computational and Applied Mathematics (T2/SCI-2)
+ - Journal of Global Optimization (SCI-2)
+ - Journal of the Operations Research Society of China (T1/EI)
+ - Neurocomputing (SCI-2, Top)
+ - Optimization (SCI-2)
+ - Optimization Letters (SCI-3)
+ - Signal Processing (SCI-2)
+ - Science in China-Mathmetics(SCI-1)
 ### Talks and conference
 1. **`Talks`**
 - August 15-19, 2021, Report on "Accelerated stochastic ADMM with applications in supervised learning". The 13-th Annual Conference on Computational Mathematics of Chinese Mathematical Society, Nanjing Normal University, China.
