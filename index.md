@@ -7,6 +7,9 @@
 ### Academic Experience
  - March, 2019-Now, Northwestern Polytechnical University, Associate professor
  - Dec. 2019-Now, Northwestern Polytechnical University, Postdoctor, co-advisor: Prof. [**Hao Sun**](https://teacher.nwpu.edu.cn/sunhao.html)
+ - May-May, 2023,Beijing University Of Technology, Visiting Prof. [**Xinyuan Zhao**](https://yanzhao.bjut.edu.cn/info/1135/1911.htm)
+ - April-April, 2023, Najing University, Visiting Prof. [**Caihua Chen**](https://sme.nju.edu.cn/5d/1e/c6512a154910/page8.htm)
+ - June-July, 2022, National Center for Applied Mathematics in Chongqing, Visiting Prof. [**Xinmin Yang**](https://www.cqnu.edu.cn/info/1112/4224.htm)
  - April-August, 2021, Chinese Academy of Sciences, Visiting Prof. [**Yuhong Dai**](http://lsec.cc.ac.cn/~dyh/)
  - Oct. - Oct. 2019, Beihang University, Visiting Prof. [**Deren Han**](http://math.buaa.edu.cn/szdw/azcck/js/hdr.htm)
  - Oct. - Oct. 2016, Southern University of Science and Technology, Visiting Prof. [**Bingsheng He**](http://maths.nju.edu.cn/~hebma/)
